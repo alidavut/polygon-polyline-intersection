@@ -1,0 +1,8 @@
+{
+  "name": "polygon-polyline-intersection",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "kld-intersections": "git+ssh://git@github.com/thelonious/kld-intersections.git#development"
+  }
+}
